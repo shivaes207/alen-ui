@@ -32,3 +32,8 @@ Alen UI is well optimized, SEO friendly, Fast loading, Open-source free Blogger 
 ## Users can remodify this theme and distribute?
 Yes of cource, we allow users to modify this theme and users can distibute this theme by renaming!
 ### Demo: <a href='https://alen-ui.blogspot.com'>alen-ui.blogspot.com</a>
+## Support the project
+It's a free blogger template but if you like to support this project buy donating as small ammount 
+You can donate us through:-
+
+<a href='https://paypal.me/shivaes'>Paypal</a>, <a href='https://donate.stripe.com/28o29j8tCgT9bjq000'>Stripe</a>,<a href='https://www.buymeacoffee.com/shivaes'>Buy Me a Coffe</a>
