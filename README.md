@@ -8,6 +8,27 @@ Alen UI is well optimized, SEO friendly, Fast loading, Open-source free Blogger 
 * docs-alen-ui.html - Help to understand how to customize and typography
 * sitemap-page-alen-ui.txt - Help to add sitemap page in your Blogger website
 *  theme-alen-ui.xml - This is the main theme file that you can use in your Blogger website at free of cost.
+## Features
+* Internet status popup
+* Defer scripts
+* Lazyload images
+* Fast loading
+* Latest neumorphism design
+* Header with linear gradient support
+* Grid design
+* Social media plugins
+* Post reaction bar
+* Dark mode support
+* Categories post
+* Featured post
+* Neumorphism footer
+* Latest bootstrap and jQuery
+* Minified CSS
+* Double-click to copy the code function
+* Scroll to the top with the progress bar
+* SEO meta tags included
+* Well Documentation
+* Much more...
 ## Users can remodify this theme and distribute?
 Yes of cource, we allow users to modify this theme and users can distibute this theme by renaming!
 ### Demo: <a href='https://alen-ui.blogspot.com'>alen-ui.blogspot.com</a>
