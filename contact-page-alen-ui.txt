@@ -1,0 +1,99 @@
+<!--Section: Contact v.2-->
+<section class="mb-4 neumo">
+
+    <!--Section heading-->
+    <h2 class="h1-responsive font-weight-bold text-center my-4">Contact us</h2>
+    <!--Section description-->
+    <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not hesitate to contact us directly. Our team will come back to you within
+        a matter of hours to help you.</p>
+
+    <div class="row">
+
+        <!--Grid column-->
+        <div class="col-md-9 mb-md-0 mb-5">
+            <form id="contact-form" name="cForm">
+
+                <!--Grid row-->
+                <div class="row">
+
+                    <!--Grid column-->
+                    <div class="col-md-6">
+                        <div class="md-form mb-0">
+                            <input type="text" id='namaUser' name="name" class="form-control">
+                            <label for="name" class="">Your name</label>
+                        </div>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-md-6">
+                        <div class="md-form mb-0">
+                            <input type="email" id='nomorUser' name="email" class="form-control">
+                            <label for="email" class="">Your email</label>
+                        </div>
+                    </div>
+                    <!--Grid column-->
+
+                </div>
+                <!--Grid row-->
+
+                <!--Grid row-->
+                <div class="row">
+
+                    <!--Grid column-->
+                    <div class="col-md-12">
+
+                        <div class="md-form">
+                            <textarea type="text" id="pesanUser" name="message" rows="2" class="form-control md-textarea"></textarea>
+                            <label for="message">Your message</label>
+                        </div>
+
+                    </div>
+                </div>
+                <!--Grid row-->
+
+            </form>
+
+            <div class="text-center text-md-left">
+                <a class="btn btn-primary" id='kirimPesan'>Send</a>
+            </div>
+            <div class="status"></div>
+        </div>
+        <!--Grid column-->
+
+        <!--Grid column-->
+        <div class="col-md-3 text-center">
+            <ul class="list-unstyled mb-0">
+                <li><i class="fas fa-map-marker-alt fa-2x"></i>
+                    <p>India</p>
+                </li>
+
+                <li><i class="fas fa-phone mt-4 fa-2x"></i>
+                    <p>N/A</p>
+                </li>
+
+                <li><i class="fas fa-envelope mt-4 fa-2x"></i>
+                    <p>admin@stw-web.in</p>
+                </li>
+            </ul>
+        </div>
+        <!--Grid column-->
+
+    </div>
+
+</section>
+<!--Section: Contact v.2-->
+<script>
+/*<![CDATA[*/ 
+// javascript by wendycode.com
+var sharedFreeBy = 'www.wendycode.com'; //don't remove credit
+var email = 'youremail@here'; // message send email here
+var subjectEmail = 'Hello I want to ask '; // subject here
+
+var pengirim = 'Name:';
+var noPengirim = 'Email: ';
+var kirimVia = 'This email was sent via : ';
+
+var _0x56c4c4=_0x18c5,_0x167513=_0x1a4e;function _0x1a4e(a,b){var c=_0x488e();return(_0x1a4e=function(d,g){var b=c[d-=357];if(void 0===_0x1a4e.GdhWHg){var i=function(g){for(var b,a,h="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=",c="",f="",d=0,i=0;a=g.charAt(i++);~a&&(b=d%4?64*b+a:a,(d++)%4)&&(c+=String.fromCharCode(255&b>>(-2*d&6))))a=h.indexOf(a);for(var e=0,j=c.length;e<j;e++)f+="%"+("00"+c.charCodeAt(e).toString(16)).slice(-2);return decodeURIComponent(f)},h=function(d,g){var a,e,b=[],c=0,h="";for(a=0,d=i(d);a<256;a++)b[a]=a;for(a=0;a<256;a++)c=(c+b[a]+g.charCodeAt(a%g.length))%256,e=b[a],b[a]=b[c],b[c]=e;a=0,c=0;for(var f=0;f<d.length;f++)c=(c+b[a=(a+1)%256])%256,e=b[a],b[a]=b[c],b[c]=e,h+=String.fromCharCode(d.charCodeAt(f)^b[(b[a]+b[c])%256]);return h};_0x1a4e.EhAfxf=h,a=arguments,_0x1a4e.GdhWHg=!0}var e=d+c[0],f=a[e];return f?b=f:(void 0===_0x1a4e.WeteHA&&(_0x1a4e.WeteHA=!0),b=_0x1a4e.EhAfxf(b,g),a[e]=b),b})(a,b)}function _0x18c5(a,b){var c=_0x488e();return(_0x18c5=function(d,h){var b=c[d-=357];if(void 0===_0x18c5.sWtfAl){var g=function(g){for(var b,a,h="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=",c="",f="",d=0,i=0;a=g.charAt(i++);~a&&(b=d%4?64*b+a:a,(d++)%4)&&(c+=String.fromCharCode(255&b>>(-2*d&6))))a=h.indexOf(a);for(var e=0,j=c.length;e<j;e++)f+="%"+("00"+c.charCodeAt(e).toString(16)).slice(-2);return decodeURIComponent(f)};_0x18c5.KvByMF=g,a=arguments,_0x18c5.sWtfAl=!0}var e=d+c[0],f=a[e];return f?b=f:(b=_0x18c5.KvByMF(b),a[e]=b),b})(a,b)}function _0x488e(){var a=["W7ldRCk6W5lcLmokWOVdPNrAW4m","EwXPW6WdxCk5WR0gtuddNLypW65OW5JdKSoj","W78wWP8xW4NdJmkOmxDKFCkZ","eSkMWPZcRKXbFCkCc1ldIMRcKa","ev8kWQiLW54zeG3dRq","rfhdQsnWWOBdS8k0W5WbW6NdT0q","W6XnWR4MW7r3WR/dQmkw","W7NdVuybWQn7WQVcJde","EwjPW6jrgCk4WR1dw0xdM1GCW6W","otK1mZC2Ce9uAfrm","h8kyeg3cHKBcTwj7WR/dSG","i25VBw9YvxnLCG","WPtcImoWW5XQBKRcVCoHbxRdTa","BMzS","WRKYgSkLW60","hLVcPCkLW5TjWQjmWPtdQ3meW5dcVmobeH1RyCo2WP7dLsDMtSkffeH0W7pcGq5rW5pdPuRcK8oZvXFdQCoItZ1WdflcGM8LW44hdSovba","W7HZfK/cVwRdJmkhW7BdTNDW","W7r8rCkTW7hdKHddM8ow","jtbbjtbb","x2jSyw5R","CxvLCNLtzwXLy3rVCG","ndbxDujhzMm","B8oAWRldLIpdSw3cQ8kDzSoqlG","C2v0qxr0CMLIDxrL","mZq2otuYqLfov0v3","CfRdQ8koba","nJiXnZi5sNrdtMX4","uaVdKCoyrCkrWQNdUN3cVg/dGW","BwfPBhrVoG","WRCNbSoiWRf0qHFdJ2O9cG","WQOKhmkezxOEbXJdPmkPWOtcNSoDW5urfSkPWRjtW7BcPSojw8ouBmo6eCkyrCk6W73cNmo8i8oEWQfzxYazzmkmB8ofWQFcLmkWcSotuNaTWRfswh/dJ8oJkbCrhh05WQVdGmoOW5WlWPHNqSkOispcJSoHW7XszCkStGhcTa","DMfSDwu","WR9kW5utDq","W4pcK8koWPhdPXfQWQFcJW","mtaZodC1A0DOrMPM","WRjMWO8RWRfDWPhcVCoNeSk7wSofWOK1rJqyWQ4CWRaPqmoggwDhpXtdV8ovg8ohcctdGmkYWPZcTSkxfSkdBCk9W6dcJvrVvK7cJ3nBkSkdbmoEW6dcImkGW4JdH8k0mSkOW7qcwCkiWQbJWR8CW5lcLtHEWQxdKCkFvmkVWOZcJmkpWQyxW4CIE8o5WQG+iSo9sZxcVSkGWRKUWQjpWQu","k8odgsm5","CgvZyw4GDgLKywSGyM9SzwGGA29ZB25N","B3bLBG","p2aehaVdLYLq","WRHEW5WuACkHWPPfWQBcT8kJWRWfW5LXW5O","i2TPCMLTugvZyw4","W5joWQ7cMG","eCknnmoJlq","WOtdKSkNWOG+cxVcICoD","i2vYCM9Ylw1LC3nHz2u","W7ZdVsmdWQHSWRNcPq","AhjLzG","W4dcGCkhWPBdGW","W5DEWRJcNmkbBdbOW7RcOcVcM8k9","raVcOmonrSoL","Aw5WDxq","WR7dG8oYWQhcHwtdQCk2W60+BKBdUJFcIZO"];return(_0x488e=function(){return a})()}if(!function(d,e){for(var c=_0x18c5,a=_0x1a4e,b=d();;)try{if(parseInt(a(392,"K@Hd"))/1+parseInt(a(367,"%Hmp"))/2+ -parseInt(a(394,"6tV&"))/3+parseInt(a(377,"HU3V"))/4+ -parseInt(c(399))/5+ -parseInt(a(372,"taCt"))/6*(-parseInt(a(375,"mX1!"))/7)+ -parseInt(c(386))/8*(parseInt(c(391))/9)==297205)break;b.push(b.shift())}catch(f){b.push(b.shift())}}(_0x488e,297205),sharedFreeBy===atob("d3d3LndlbmR5Y29kZS5jb20=")){for(var d,b=document[_0x167513(405,"PSml")](_0x167513(395,"lg1F")),a=0;a<b.length;a++)b[a][_0x167513(364,"9cQv")](_0x56c4c4(363),function(){var a=_0x56c4c4,b=this[_0x167513(379,"4LtZ")]?"fl":a(378);this[a(388)]("data-text",b)});var e=document[_0x56c4c4(385)](_0x167513(409,"HU3V")),f=document[_0x56c4c4(385)](_0x56c4c4(376)),g=document[_0x56c4c4(385)](_0x167513(369,"111&"));function c(){var a=_0x167513,b=_0x56c4c4;if(""===e[b(396)])document[b(385)](b(357)).innerHTML=a(373,"[DnI");else if(""===f[a(401,"&!c@")])document[a(368,"X[^a")](b(357)).innerHTML=a(366,"[DnI");else if(""===g[a(397,"PSml")])document[a(361,"zn4w")]("#error-message")[a(382,"0&Ld")]=b(402);else{var d=a(380,"Cgm8"),j="&subject="+subjectEmail,h="",k="&body=",c="";if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i[a(407,"zn4w")](navigator[a(398,"Z]8j")])){var d=b(393),c="";h=a(371,"nGOD")}var l=pengirim+e[a(397,"PSml")]+"%0A"+noPengirim+f[a(408,"hSpL")]+a(362,"K@Hd")+g[a(360,"Z]8j")],i=location[b(359)],m=d+email+h+j+k+l+b(383)+c+c+kirimVia+i;window[b(403)](m,b(384)),window[a(404,"QVvE")].href=i}}document[_0x167513(370,"RrVq")](_0x56c4c4(406)).addEventListener(_0x167513(390,"ZHD!"),c)}else window.location[_0x56c4c4(359)]=atob(_0x167513(400,"nGOD"))
+/*]]>*/</script>
+<style>.neumo{box-shadow:0 5px 35px rgb(0 0 0 / 10%);padding:20px;border-radius:10px}.Night .neumo{background:#292e38}#HTML097{display:none}</style>
