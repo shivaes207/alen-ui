@@ -1,0 +1,12 @@
+<img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh36jpx4En5DGj1GbV96X8Rj-VbOYrO_gQJaQ4QSPWkYOdJk8Ar6edlkdlcC827AtQVOg4jaPjyNu8CiRPsGixWVJR0TC0itxJHpm4cUdxcIqvzgAfFRNcRcoGhJ6FVDzR-Jp7IWR1Kq33Oo5NVDyOz97X9Igla2kSOVzYlC21kgOYQWj1NPGSqewSVpg/s1600/alen-ui.webp'/>
+
+# Alen UI
+Alen UI is well optimized, SEO friendly, Fast loading, Open-source free Blogger template, it maintains its speed even with third-party scripts like jQuery. It was easily customizable from the Blogger customizer, Alen UI came with proper documentation that helped to customise the template!
+##Files details
+* alen-ui-posts.xml - Help to import articles published in our demo website.
+* contact-page-alen-ui.txt - Help to add contact page in your Blogger website.
+* docs-alen-ui.html - Help to understand how to customize and typography
+* sitemap-page-alen-ui.txt - Help to add sitemap page in your Blogger website
+*  theme-alen-ui.xml - This is the main theme file that you can use in your Blogger website at free of cost.
+## Users can remodify this theme and distribute?
+Yes of cource, we allow users to modify this theme and users can distibute this theme by renaming!
