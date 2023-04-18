@@ -55,7 +55,9 @@ Alen UI is well optimized, SEO friendly, Fast loading, Open-source free Blogger 
 * SEO meta tags included
 * Well Documentation
 * Preloader
-*Image slider
+* Image slider
+* Safelink with generator
+* Author profile widget
 * Much more...
 ## Users can remodify this theme and distribute?
 Yes of cource, we allow users to modify this theme and users can distibute this theme by renaming!
