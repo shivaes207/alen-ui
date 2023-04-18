@@ -8,6 +8,9 @@ Alen UI is well optimized, SEO friendly, Fast loading, Open-source free Blogger 
 * docs-alen-ui.html - Help to understand how to customize and typography
 * sitemap-page-alen-ui.txt - Help to add sitemap page in your Blogger website
 *  theme-alen-ui.xml - This is the main theme file that you can use in your Blogger website at free of cost.
+##Download themes
+Download v1.0: <a href='https://github.com/shivaes207/alen-ui/archive/refs/tags/v1.0.zip'>click here</a>
+Download v1.1: <a href='https://github.com/shivaes207/alen-ui/archive/refs/tags/v1.1.zip'>click here</a>
 ##  v1.0 Features
 * Internet status popup
 * Defer scripts
