@@ -12,6 +12,7 @@ Alen UI is well optimized, SEO friendly, Fast loading, Open-source free Blogger 
 ## Download themes
 * Download v1.0: <a href='https://github.com/shivaes207/alen-ui/archive/refs/tags/v1.0.zip'>click here</a>
 * Download v1.1: <a href='https://github.com/shivaes207/alen-ui/archive/refs/tags/v1.1.zip'>click here</a>
+* Download v1.1 Safelink file: <a href='https://github.com/shivaes207/alen-ui/releases/download/v1.1/alen-ui-safelink.txt'>click here</a>
 
 ##  v1.0 Features
 * Internet status popup
