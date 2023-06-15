@@ -1,1 +1,1 @@
-body{line-height:1;background:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)) center,url('var(--themeB)') center;background-blend-mode:darken;backdrop-filter:blur(15px);overflow-y:scroll}
+body{line-height:1;background:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)) center,url('$(body.background)') center;background-blend-mode:darken;backdrop-filter:blur(15px);overflow-y:scroll}
